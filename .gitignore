@@ -5,3 +5,5 @@
 *.net
 
 !eight.php
+
+[aeiou]*.txt
